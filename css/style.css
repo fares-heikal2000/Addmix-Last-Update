@@ -1081,6 +1081,9 @@ i {
     padding: 55px 30px 55px 30px;
     min-height: 370px;
 }
+.services_info p {
+    font-size: 20px;
+}
 
 .services_info > p{
     padding-top: 14px;
@@ -1946,7 +1949,8 @@ button{
 }
 .contact-us{
   background: linear-gradient(rgba(46, 45, 47, 0.68), rgb(2, 2, 2)),url(../images/bg-img/contact_img.jpg) center center no-repeat;
-  background-attachment: fixed
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .contact-form{

@@ -37,11 +37,11 @@
 .fw_al_002_slide > h1 {
   padding: 0;
   color: #fff;
-  font-size: 55px;
+  font-size: 25px;
   font-weight: 600;
-  line-height: 42px;
-  margin-top: 20px;
-  margin-bottom: 25px;
+  line-height: 35px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   display: inline-block;
   text-transform: capitalize;
 font-family: "Montserrat", sans-serif;
@@ -67,7 +67,7 @@ font-family: "Montserrat", sans-serif;
 .fw_al_002_slide > p {
   padding: 0;
   color: #fff;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 32px;
   font-weight: normal;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -126,11 +126,12 @@ font-family: "Montserrat", sans-serif;
   }
   .fw_al_002_slide > h1 {
     font-size: 24px;
-    margin-bottom: 5px;
+    margin-top: 75px;
   }
   
   .fw_al_002_slide > p{
-	  font-size: 14px;
+	  font-size: 10px;
+    display: none;
   }
   
   #fw_al_002 .lg{
@@ -263,7 +264,7 @@ font-family: "Montserrat", sans-serif;
 	top: 30%;
   }
   .fw_al_002_slide > h1{
-	  font-size: 40px;
+	  font-size: 30px;
   }
   
   .fw_al_002_slide > p{
